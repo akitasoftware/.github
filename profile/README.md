@@ -1,5 +1,3 @@
-### Akita Software
-
 [Akita Software](https://www.akitasoftware.com/) builds and maintains the [Akita app](https://app.akita.software/). The Akita agent passively watches API traffic in order to automatically discover API endpoints and identify potential bottlenecks and errors, no SDKs or code changes required.
 
 Check out our open source CLI [here](https://github.com/akitasoftware/akita-cli). 
